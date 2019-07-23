@@ -6,4 +6,3 @@ test("create apartment", () => {
     const s = ap1.toSet();
     expect(s.city).toBe("Madrid");
 });
-cp
